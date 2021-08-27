@@ -1,0 +1,148 @@
+/* https://colorhunt.co/palette/ff8f56ff5959984a5960424c */
+
+body {
+  font-family: 'Noto Sans SC', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+/* Sections */
+
+.white-section {
+  background-color: #fff;
+}
+
+.color-section {
+  background-color: #f29333;
+}
+
+/* Navbar Section */
+
+.navbar {
+  padding: 0.5rem 0 0;
+  background-color: #1d1f1d;
+}
+
+.navbar-brand {
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 3rem;
+  padding: 0 0 0 2rem;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Noto Serif SC', serif;
+}
+
+/* Heading Section */
+
+.heading-row {
+  margin-right: 0;
+}
+
+.heading-text-part {
+  padding: 10% 8% 5% 9%;
+  text-align: justify;
+}
+
+.heading-pic-part {
+  padding: 0 0;
+}
+
+.heading-intro {
+  font-size: 1.8rem;
+  line-height: 1.8;
+  font-weight: 400;
+}
+
+.heading-button {
+   margin: 10% 10% 0 0;
+}
+
+.background-image {
+  position: relative;
+  bottom: 2px;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 45%;
+  border-bottom-left-radius: 45%;
+}
+
+/* Features Section */
+
+.feature-container{
+  padding: 4.5% 15%;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #1d1f1d;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #848d9c;
+}
+
+
+/* Testimonials Section */
+
+#testimonial {
+  background-color: #f5ad64;
+}
+
+.testimonial-title {
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 3rem;
+  padding: 5% 0 1%;
+}
+
+.testimonial-container{
+  padding: 0 20% 2%;
+}
+
+.testimonial-image {
+  width: 80%;
+  border-radius: 30%;
+  margin: 10px 40px 40px;
+}
+
+.testimonial-name {
+  font-size: 1.5rem;
+}
+
+.testimonial-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  font-weight: 400;
+  text-align: justify;
+}
+
+
+#divide {
+  padding-bottom: 2%;
+  color: #1d1f1d;
+}
+
+.divide-logo-group {
+  width: 10%;
+  height: 10%;
+  margin: 0 20px 50px;
+}
+
+.divide-logo-single {
+  width: 5%;
+  height: 5%;
+  margin: 0 20px 50px;
+}
